@@ -7,6 +7,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+// Thanks ChatGpt to help me to learn this Github
+
 public class CogloginHelper {
 
 	
